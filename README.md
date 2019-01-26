@@ -3,7 +3,7 @@
 This is an Advanced Javascript Assignment. Create a command line word guess game using node.js.
 
 Here is a link to video of how to make this and working demonstration.
-https://www.youtube.com/watch?v=hnSgRvmTJA4&t=514s
+https://www.youtube.com/watch?v=hnSgRvmTJA4&t=514s?sub_confirmation=1
 
 The completed game should meet the following criteria:
 
